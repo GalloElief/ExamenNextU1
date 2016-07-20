@@ -1,0 +1,23 @@
+.ciao{
+  background-color:purple;
+  position: relative;
+  left: 0px;
+  top:0px
+}
+.hola{
+  background-color:gray;
+   position:relative;
+    top: 0px;
+    left: 200px;
+    
+}
+.alo{
+  background-color:pink;  
+   position: relative;
+    top:400px
+    left: 0px;
+  }
+div{
+  width: 200px;
+  height: 200px;
+}    

@@ -1,0 +1,90 @@
+.BOX{
+	display:block;
+
+	background: gray;
+	
+	width: 130px;
+	height: 130px;
+	margin: 10px;
+	
+}
+.cajados{
+	background: gray;
+	
+	width: 460px;
+	height: 150px;
+	margin: 10px;
+	
+}
+.one{
+	display:inline-block;
+
+	background: gray;
+	
+	width: 130px;
+	height: 130px;
+	margin:8px;
+	border: 2px solid ;
+	
+}
+.two{
+
+	display:inline-block;
+
+	background: gray;
+	
+	width: 130px;
+	height: 130px;
+	margin: 8px;
+	border: 2px solid ;
+	
+}
+.three{
+
+	display:inline-block;
+
+	background: gray;
+	
+	width: 130px;
+	height: 130px;
+	margin: 8px;
+	border: 2px solid ;
+}
+
+.cajatres{
+	display:inline-block;
+
+	background: gray;
+	
+	width: 130px;
+	height: 130px;
+	margin: 10px;
+}
+.cajatresdos{
+	display:inline-block;
+
+	background: gray;
+	
+	width: 130px;
+	height: 130px;
+	margin: 10px;
+
+}
+
+.cajacuatro{
+	display:block;
+
+	background: gray;
+	
+	width: 130px;
+	height: 130px;
+	margin: 10px;
+	
+}
+
+
+body{
+	background: pink;
+}
+
+

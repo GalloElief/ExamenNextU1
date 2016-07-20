@@ -1,0 +1,66 @@
+.cajaverde{
+  background-color:#8FBC8F;  
+   position: absolute;
+   padding: 50px;
+   
+  }
+div{
+  	width: 900px;
+	height:450px;
+} 
+
+.one{
+	display:inline-block;
+	background: #8FBC8F;
+	color:white;
+	border: 2px solid ;
+}
+
+.two{
+	display:inline-block;
+	background: #8FBC8F;
+	color:white;
+	border: 2px solid ;
+	width: 100px;
+	height:200px;
+	margin:110px 0px;
+
+}
+
+.three{
+	display:inline-block;
+	background: #8FBC8F;
+	color:white;
+	border: 2px solid ;
+	width: 100px;
+	height:200px;
+	margin:0px 795px;
+}
+
+.ci{
+	display:inline-block;
+	width: 200px;
+    height: 200px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    color:white;
+	border: 2px solid ;
+  	background: #8FBC8F;
+  	margin:-2px -440px;
+
+}
+.bola1{
+	position:absolute;
+	margin:170px 410px 0px 410px;
+}
+.bola2{
+	position:absolute;
+	margin:-50px 110px;
+	
+		
+}
+.bola3{	
+	position:absolute;
+	margin:0px -265px;
+}
+

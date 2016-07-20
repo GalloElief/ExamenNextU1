@@ -1,0 +1,27 @@
+.galleta{
+	
+	padding: 40px 20px 70px 100px;
+	border: 20px solid pink;
+	width: 50px;
+	height: 10px;
+
+}
+.papa{
+	background-color: purple;
+	padding: 40px 20px 70px 100px;
+	border: 20px solid pink;
+	width: 50px;
+	height: 10px;
+}
+
+
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
+
+.floating{
+	float:right;
+
+}
+

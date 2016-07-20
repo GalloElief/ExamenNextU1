@@ -1,0 +1,31 @@
+.ciao{
+  background-color:purple;
+  position: absolute;
+  left: 0px;
+  top:0px
+}
+.hola{
+  background-color:gray;
+   position:absolute;
+    top: 0px;
+    left: 400px;
+    
+}
+.alo{
+  background-color:pink;  
+   position: absolute;
+    top:  400px;
+    left: 0px;
+  }
+
+.hello{
+  background-color:aqua;  
+   position: absolute;
+    top: 400px;
+    left: 400px;
+  }
+
+div{
+  width: 200px;
+  height: 200px;
+}    

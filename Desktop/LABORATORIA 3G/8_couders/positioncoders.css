@@ -1,0 +1,53 @@
+hr{
+	border: 0; 
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #333; 
+	height:0%;
+	width: 10%;
+}
+
+*{
+	font-family: 'Oswald', sans-serif;
+}
+
+div>div{
+	margin:10px;
+}
+img{
+  opacity: 0.5;
+}
+body{
+	padding: 100px 250px;
+}
+.div{ 
+  width: 130px;
+  height: 130px; 
+}
+.cajareloj{
+  display:inline-block;
+}
+.cajacontrol{
+  display:inline-block;
+}
+div.cajareloj>p{
+	position: absolute;
+    top: 370px;
+    color: white;
+       
+}
+
+div.cajacontrol>p{
+	position: absolute;
+    top: 610px;
+   	color: white;  	
+}
+
+.figuras>a>img{
+	display:inline-block;
+	height:50px;
+	width:50px;
+}
+.figuras{
+	position: relative;
+	left: 244px;
+}
